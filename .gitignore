@@ -1,0 +1,43 @@
+# --- Python (server) ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# --- Node / Expo (mobile) ---
+node_modules/
+.expo/
+dist/
+build/
+web-build/
+*.tsbuildinfo
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+
+# --- Secrets & local data ---
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Expo generated ---
+mobile/expo-env.d.ts
