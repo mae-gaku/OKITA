@@ -1,7 +1,11 @@
-# OKITA
+<h1 align="center">OKITA</h1>
+<p align="center">「起きた？」を 1 タップで。家族・友人向け 起床確認アプリ。</p>
 
-「起きた？」を 1 タップで。家族・友人向け 起床確認アプリ。
+<div align="center">
 <img width="270" height="480" alt="okita-keyvisual" src="https://github.com/user-attachments/assets/6d4ac58d-d48b-42ef-9d1e-868364696c02" />
+</div>
+
+<p></p>
 
 ```
 okita/
